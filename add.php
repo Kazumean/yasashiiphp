@@ -1,6 +1,6 @@
 <?php
-$user = "noguchi";
-$pass = "kztk3021";
+$user = "mysql";
+$pass = "mysql";
 
 $recipe_name = $_POST["recipe_name"];
 $howto = $_POST["howto"];
