@@ -1,6 +1,7 @@
 <?php
-$user = "mysql";
-$pass = "mysql";
+// $user = "mysql";
+// $pass = "mysql";
+require_once __DIR__ . "/../../db_config.php";
 
 $recipe_name = $_POST["recipe_name"];
 $howto = $_POST["howto"];
